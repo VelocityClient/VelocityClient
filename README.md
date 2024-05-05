@@ -1,5 +1,6 @@
 # Velocity
-## Just another skidded velocity and chat bypasser
+## Just another Velocity and Chat Bypasser
+## Credits to Copiums and V3rge
 
 # IF YOU'RE INSTALLING VELOCITY:
 ```lua
@@ -8,7 +9,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Copiums/Copium/main/I
 
 # EXECUTE THIS IF YOU ALREADY INSTALL VELOCITY:
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/VelocityClient/VelocityClient/main/Velocity", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/VelocityClient/VelocityClient/main/Velocity.lua", true))()
 ```
 
 # IF YOU'RE UNINSTALLING/DELETING VELOCITY:
