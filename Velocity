@@ -1,3 +1,4 @@
+--Notes this is not my scripts, credit to Copiums, who made this script.
 --Velocity
 local lplr = game:GetService("Players").LocalPlayer
 local errorPopupShown = false
@@ -16,7 +17,7 @@ local function displayErrorPopup(text, func)
     local prompt = ErrorPrompt.new("Default")
     prompt._hideErrorCode = true
     local gui = Instance.new("ScreenGui", game:GetService("CoreGui"))
-    prompt:setErrorTitle("Velocity")
+    prompt:setErrorTitle("Vape")
     prompt:updateButtons({{
         Text = "OK",
         Callback = function() 
