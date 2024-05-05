@@ -16,3 +16,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/VelocityClient/Veloci
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Copiums/Copium/main/Uninstaller.lua", true))()
 ```
+
+## Informations:
+I am a python game developer (pygame) and web developer
